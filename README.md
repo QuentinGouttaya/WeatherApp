@@ -4,6 +4,15 @@
 
 Educational project only.
 
+### Pré-requis
+
+python > 3.12
+react-native >= 0.77
+
+
+Use either your own phone or an android, iphone emulator through expo.
+
+
 ## Getting Started
 
 Open 2 terminal tabs in the project folder.
