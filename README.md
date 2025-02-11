@@ -15,9 +15,10 @@ python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 flask run --port 5000
-
+```
 ### Frontend Setup (Second tab)
 ```bash
 cd frontend
 npm install
 npx expo start // npx expo start --reset-clear if ui problem
+```
